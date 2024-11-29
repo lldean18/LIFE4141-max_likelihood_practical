@@ -1,0 +1,15 @@
+1. One is to generate a model and one an independent dataset used to assess the model
+2. 75%
+3. supervised - unsupervised learning algorithms don't use a test set.
+4. Petal length and petal width
+5. Iris setosa
+6. ~4.5-5.5cm length and 1.5-2.0 cm width
+7. I reckon we've overfit because those angles probably don't describe a real pattern - we cannot tell without more data
+8. versicolor
+9. verginica
+10. It's very simple. It only considers 2 variables. Clearly there is a zone of some overlap.
+11. Increase K - this can be titrated and plotted to find the value of k that gives the best test accuracy. Training set accuracy will probably decrease with > K.
+12. 0
+13. virginica - left, left, right, left. Up Down all around
+14. Right, Right, Left (false, false, true)
+15. Petal length, Petal Width, Sepal length, Sepal Width
